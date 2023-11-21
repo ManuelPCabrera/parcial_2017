@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1700580914 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\ctransporte.cpp
+	"CTransporte.h"
+
+1700582935 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\ctransporte.h
+	"CColor.h"
+	<string>
+
+1700581736 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\ccolor.cpp
+	"CColor.h"
+	<iomanip>
+
+1700579719 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\ccolor.h
+	<ostream>
+
+1700580323 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cterrestre.cpp
+	"CTerrestre.h"
+
+1700580281 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cterrestre.h
+	"CTransporte.h"
+
+1700580351 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cmaritimo.cpp
+	"CMaritimo.h"
+
+1700446856 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cmaritimo.h
+	"CTransporte.h"
+
+1700515334 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<fstream>
+	"CTransporte.h"
+	"CMaritimo.h"
+	"CTerrestre.h"
+	"persona.h"
+
+1700515248 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1700233131 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\cfecha.h
+	<ostream>
+	<iostream>
+	<fstream>
+
+1700494305 source:e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\persona.cpp
+	"persona.h"
+
+1700494305 e:\programacion_orientada_a_objetos\2do_parcial2017(yo)\segundo_parcial\persona.h
+	<string>
+	"CFecha.h"
+

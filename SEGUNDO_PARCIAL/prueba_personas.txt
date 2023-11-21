@@ -1,0 +1,16 @@
+
+0
+Nombre :manolo
+Documento :0
+Fecha :00/00/0
+
+12516857
+Nombre :Roberto
+Documento :12516857
+Fecha :26/10/1000
+
+92736675
+Nombre :Pablo
+Documento :92736675
+Fecha :25/10/1980
+

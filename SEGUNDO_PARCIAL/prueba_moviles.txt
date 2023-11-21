@@ -1,0 +1,27 @@
+
+007XYZ
+Matricula :007XYZ
+Marca :Honda
+Velocidad :87.5
+Cant Ruedas :2
+Color:0x50ff0ffRed:80 grenn:1 blue:251 
+
+AA769DB
+Matricula :AA769DB
+Marca :Renault
+Velocidad :197.8
+Cant Ruedas :4
+Color:0x50ff0ffRed:176 grenn:23 blue:251 
+
+AUB734
+Matricula :AUB734
+Nombre:Titanic
+Pasajeros :500
+Color:0x50ff0ffRed:176 grenn:23 blue:251 
+
+CZX023
+Matricula :CZX023
+Nombre:Esperanza
+Pasajeros :5
+Color:0x7000ffRed:176 grenn:23 blue:251 
+
